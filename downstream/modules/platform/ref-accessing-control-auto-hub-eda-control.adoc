@@ -1,6 +1,7 @@
 :_content-type: REFERENCE
 
 [id="accessing-control-auto-hub-eda-control_{context}"]
+
 = Accessing controller, automation hub, and {EDAName} controller
 
 [role="_abstract"]

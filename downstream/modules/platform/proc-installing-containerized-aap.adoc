@@ -1,6 +1,7 @@
 :_content-type: PROCEDURE
 
 [id="installing-containerized-aap_{context}"]
+
 = Installing containerized {PlatformNameShort}
 
 [role="_abstract"]
