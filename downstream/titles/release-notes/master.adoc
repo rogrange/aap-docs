@@ -28,7 +28,7 @@ include::topics/aap-25-fixed-issues.adoc[leveloffset=+1]
 include::topics/docs-25.adoc[leveloffset=+1]
 
 // == Asynchronous updates
-include::async/async-updates.adoc[leveloffset=+1]
+include::async/async-updates.adoc[leveloffset=+2]
 // Async release 2.5-5 3rd Dec
 include::async/aap-25-5-3-dec.adoc[leveloffset=+2]
 // Async release 2.5-4 18th Nov (was released early)
